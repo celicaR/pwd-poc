@@ -1,5 +1,42 @@
 # How To Start Using the Command Line
 
+Table of Contents
+=================
+
+* [How To Start Using the Command Line](#how-to-start-using-the-command-line)
+  * [Pre\-Flight Setup](#pre-flight-setup)
+    * [JS Linux](#js-linux)
+    * [Play With Docker](#play-with-docker)
+    * [Warning](#warning)
+* [Rules](#rules)
+* [Overview](#overview)
+* [Command Line Keywords](#command-line-keywords)
+  * [pwd](#pwd)
+  * [hostname](#hostname)
+  * [mkdir](#mkdir)
+  * [cd](#cd)
+  * [ls](#ls)
+  * [rmdir](#rmdir)
+  * [touch](#touch)
+  * [cp](#cp)
+  * [mv](#mv)
+  * [echo](#echo)
+  * [less](#less)
+  * [cat](#cat)
+  * [rm](#rm)
+  * [Pipes](#pipes)
+  * [Redirects](#redirects)
+  * [Wildcards](#wildcards)
+  * [find](#find)
+  * [grep](#grep)
+  * [man](#man)
+  * [env](#env)
+  * [export](#export)
+  * [exit](#exit)
+* [Tutorial Review](#tutorial-review)
+  * [Further Study](#further-study)
+  * [Bonus](#bonus)
+
 The command line is a must for any real programmer and since data practitioners are writing software programs - it only makes sense that you need to learn it, and learn it well you shall!
 
 Great skill in the command line is highly sought after in data science roles and is a hard requirement for any Data or ML Engineer roles.
